@@ -121,6 +121,16 @@ width: 75vw;
    .footer-items{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    
 
+   }
+   .low{
+    display: flex;
+    justify-content: space-evenly;
+    
+   }
+   .high{
+    display: flex;
+    text-align: center;
+    justify-content: center;
    }
